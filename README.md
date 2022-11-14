@@ -38,6 +38,9 @@ If it's X's turn, return the maximum score from the scores list.
 If it's O's turn, return the minimum score from the scores list.
 
 ## SCREENSHOTS
-![alt text](https://github.com/SanketSarmalkar/tic-tac-toe/blob/lib/profile/begin.jpg?raw=true)
-![alt text](https://github.com/SanketSarmalkar/tic-tac-toe/blob/lib/profile/win.jpg?raw=true)
-![alt text](https://github.com/SanketSarmalkar/tic-tac-toe/blob/lib/profile/draw.jpg?raw=true)
+
+<p>
+<img src="https://user-images.githubusercontent.com/78688627/201565289-9c5cba2d-96aa-479e-81ea-39e36e146f8a.jpg" width="33%">
+<img src="https://user-images.githubusercontent.com/78688627/201565400-15abfb09-3a09-49d3-936a-796b383d1ff3.jpg" width="33%">
+<img src="https://user-images.githubusercontent.com/78688627/201565431-21c69a5d-8e86-43b5-a6db-5edce0126c5f.jpg" width="33%">
+</p>
