@@ -40,7 +40,7 @@ If it's O's turn, return the minimum score from the scores list.
 ## SCREENSHOTS
 
 <p>
-<img src="https://user-images.githubusercontent.com/78688627/201565289-9c5cba2d-96aa-479e-81ea-39e36e146f8a.jpg" width="33%">
-<img src="https://user-images.githubusercontent.com/78688627/201565400-15abfb09-3a09-49d3-936a-796b383d1ff3.jpg" width="33%">
-<img src="https://user-images.githubusercontent.com/78688627/201565431-21c69a5d-8e86-43b5-a6db-5edce0126c5f.jpg" width="33%">
+<img src="https://user-images.githubusercontent.com/78688627/201565289-9c5cba2d-96aa-479e-81ea-39e36e146f8a.jpg" width="32%" style:"float:left">
+<img src="https://user-images.githubusercontent.com/78688627/201565400-15abfb09-3a09-49d3-936a-796b383d1ff3.jpg" width="32%" style:"float:center">
+<img src="https://user-images.githubusercontent.com/78688627/201565431-21c69a5d-8e86-43b5-a6db-5edce0126c5f.jpg" width="32%" style:"float:right">
 </p>
