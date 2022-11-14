@@ -36,3 +36,8 @@ Create a scores list.
 For each of these states add the minimax result of that state to the scores list.
 If it's X's turn, return the maximum score from the scores list.
 If it's O's turn, return the minimum score from the scores list.
+
+## SCREENSHOTS
+![alt text](https://github.com/SanketSarmalkar/tic-tac-toe/blob/lib/profile/begin.jpg?raw=true)
+![alt text](https://github.com/SanketSarmalkar/tic-tac-toe/blob/lib/profile/win.jpg?raw=true)
+![alt text](https://github.com/SanketSarmalkar/tic-tac-toe/blob/lib/profile/draw.jpg?raw=true)
