@@ -65,6 +65,15 @@ class _homePageState extends State<homePage> {
       if ((RT == "X" && RM == "X" && RB == "X") ||
           (RT == "O" && RM == "O" && RB == "O"))
         display = (s == 1) ? ("X") : ("O");
+      else if(LT != "" &&
+      TT != "" &&
+      RT != "" &&
+      LM != "" &&
+      MM != "" &&
+      RM != "" &&
+      LB != "" &&
+      BB != "" &&
+      RB != "") display = "Draw";
       if (display != "") {
         /*LT = "";
         TT = "";
@@ -153,8 +162,8 @@ class _homePageState extends State<homePage> {
                     color: Colors.green,
                     borderRadius: BorderRadius.circular(currentHeight * 0.015),
                     child: Container(
-                      child: Center(child: Text((display != "") ? (display +
-                          " WINS") : "",
+                      child: Center(child: Text((display != "" && (display=="X" || display=="O")) ? (display +
+                          " WINS") : (display=="")?"":display,
                         style: GoogleFonts.sonsieOne(
                             fontSize: currentHeight * 0.045,
                             fontWeight: FontWeight.bold),)),
